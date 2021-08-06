@@ -1,1 +1,2 @@
-console.log("ok");
+// substituindo o comentário
+console.log("maravilha");
